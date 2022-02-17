@@ -1,2 +1,2 @@
 # helpfulscripts
-some short python scripts I've written to do various comp biology automation like tasks (eg data cleaning) as well as more general scripts that I may have just made once but kept for it's handiness.
+Some short python scripts I've written to do various data cleaning things. Biologists run into all sorts of data from different places ^^ Most of these are really just for me but enjoy poking around!
